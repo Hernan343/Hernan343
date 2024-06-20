@@ -42,7 +42,7 @@
       </p>
     <p align="center">
         <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
-      <a href="" target="blank"><img align="center" src="" alt="" /></a>
+      <a href="https://cafelopezacademy.netlify.app/" target="blank"><img align="center" src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png" alt="Cafeteria" /></a>
     </p>       
 </td>
   
