@@ -47,7 +47,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://cafelopezacademy.netlify.app/" title="Cafetería Lopez">
-        <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png"   alt="cafeteria" /></a>
+        <img align="center" width=100% src="https://github.com/Hernan343/Cafeter-a-de-especialidad/blob/main/ejemplo2.png"   alt="cafeteria" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/Hernan343/Cafeter-a-de-especialidad" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@hernan343" /></a>
