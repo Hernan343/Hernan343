@@ -40,6 +40,9 @@
      <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" title="Bienes Raices [En proceso]">
         <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo.png"   alt="Proyecto" /></a>
       </p>
+    </td>
+  <tr border="none">
+  <td width="25%" align="center">
     <p align="center">
         <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
       <a href="https://cafelopezacademy.netlify.app/" target="blank"><img align="center" src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png" alt="Cafeteria" />
