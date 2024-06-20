@@ -80,31 +80,31 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="10%" align="center">
+  <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Certificados/blob/main/PHP%208.png" title="PHP">
         <img align="center" width=100% src="https://github.com/Hernan343/Certificados/blob/main/PHP%208.png"   alt="PHP" /></a>
       </p>      
 </td>
-<td width="10%" align="center">
+<td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Certificados/blob/main/Datos%20en%20python.png" title="Python">
         <img align="center" width=100% src="https://github.com/Hernan343/Certificados/blob/main/Datos%20en%20python.png"   alt="Python" /></a>
       </p>
 </td>
-  <td width="10%" align="center">
+  <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Certificados/blob/main/Docker.png" title="Docker">
         <img align="center" width=100% src="https://github.com/Hernan343/Certificados/blob/main/Docker.png"   alt="Docker" /></a>
       </p>      
 </td>
-     <td width="10%" align="center">
+     <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Certificados/blob/main/Flutter.png" title="Flutter">
         <img align="center" width=100% src="https://github.com/Hernan343/Certificados/blob/main/Flutter.png"   alt="Flutter" /></a>
       </p>
 </td>
-    <td width="10%" align="center">
+    <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Certificados/blob/main/Python.png" title="Python">
         <img align="center" width=100% src="https://github.com/Hernan343/Certificados/blob/main/Python.png"   alt="Python profesional" /></a>
