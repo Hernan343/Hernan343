@@ -46,7 +46,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="" title="Cafetería Lopez">
+     <a href="https://cafelopezacademy.netlify.app/" title="Cafetería Lopez">
         <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png"   alt="cafeteria" /></a>
       </p>
     <p align="center">
