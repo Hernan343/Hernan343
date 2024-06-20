@@ -35,20 +35,25 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="50%" align="center">
+  <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" title="Bienes Raices [En proceso]">
-        <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo.png"   alt="Proyecto" /></a>
+        <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo.png"   alt="bienesraices" /></a>
       </p>
-    </td>
-  <tr border="none">
-  <td width="50%" align="center">
     <p align="center">
-        <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
-      <a href="https://cafelopezacademy.netlify.app/" target="blank"><img align="center" src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png" alt="Cafeteria" />
-      <a href="https://github.com/Hernan343/Cafeter-a-de-especialidad" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
+      <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@githernan343" /></a>
     </p>       
 </td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="" title="Cafetería Lopez">
+        <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo2.png"   alt="cafeteria" /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/Hernan343/Cafeter-a-de-especialidad" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@hernan343" /></a>
+    </p>       
+</td>
+
   
 </tr>
 </table>
