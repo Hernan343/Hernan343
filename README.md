@@ -41,7 +41,7 @@
         <img align="center" width=100% src="https://github.com/Hernan343/Hernan343/blob/main/ejemplo.png"   alt="Proyecto" /></a>
       </p>
     <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
+        <a href="https://github.com/Hernan343/Bienes_Raices-En-proceso-" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="directoagit"  /></a>
       <a href="" target="blank"><img align="center" src="" alt="" /></a>
     </p>       
 </td>
