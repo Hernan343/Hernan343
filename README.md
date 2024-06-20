@@ -74,8 +74,16 @@
 </tr>
 </table>
   </div>
+  </tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+   <!--Cursos y certificados-->
 <div id="certificados">
-  <!--Cursos y certificados-->
 <h2 >🤓 Algunos de mis certificaiciones 🤓</h2>
 
 <table align="left" >
@@ -111,14 +119,7 @@
       </p>     
 </td>
   <!-------------------------->
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+
 
 <!------------------------->
 
