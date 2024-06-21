@@ -84,7 +84,7 @@
 <br><br>
    <!--Cursos y certificados-->
 <div id="certificados">
-<h2 >🤓 Algunos de mis certificaiciones 🤓</h2>
+<h2 >🤓 Algunas de mis certificaciones 🤓</h2>
 
 <table align="left" >
 <tr border="none">
